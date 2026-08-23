@@ -10,7 +10,13 @@ A sequência conceitual principal é:
 
 **Base institucional:** FISI0262 – Física 3, Departamento de Física da Universidade Federal de Sergipe. O programa oficial cobre carga, lei de Coulomb, campo e fluxo elétrico, lei de Gauss, potencial, capacitores e dielétricos, corrente, resistência, força eletromotriz, circuitos DC e RC, campo magnético, força de Lorentz, Biot–Savart, Ampère, torque magnético, Faraday, Lenz, indutância, circuitos RL e RLC, propriedades magnéticas da matéria e correntes alternadas.
 
-**Base bibliográfica:** Sears, Zemansky, Young e Freedman, Física III, 12ª edição; Halliday, Resnick e Krane, Fundamentos de Física, volume 3; Alonso e Finn, volume 2; Nussenzveig, Tipler–Mosca e Serway–Jewett, conforme o programa oficial. Correspondência de capítulos deve ser confirmada para a edição efetivamente usada.
+**Base bibliográfica:** Sears, Zemansky, Young e Freedman, Física III, 12ª edição; Halliday, Resnick e Krane, Fundamentos de Física, volume 3; Alonso e Finn, volume 2; Nussenzveig, Tipler–Mosca e Serway–Jewett, conforme o programa oficial. Os materiais enviados estão identificados em [Física/Referencias/catalogo.md](../Referencias/catalogo.md).
+
+### Materiais enviados para Física 3
+
+- `F3-HALLIDAY-V3-2016`: livro-texto de apoio, capítulos 21–32, alinhados a E1–E11.
+- `F3-HALLIDAY-MANUAL-SOLUCOES-2016`: manual suplementar do Halliday; usar apenas depois da tentativa independente, para comparar solução, classificar erro e refazer o problema.
+- Ao propor exercícios, registrar o ID, capítulo/seção e problema. O manual não substitui a leitura conceitual nem constitui evidência independente de domínio.
 
 ## Resultado esperado
 
