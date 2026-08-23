@@ -4,14 +4,14 @@ Esta é a base permanente para organizar o progresso de estudos, dificuldades, e
 
 O GitHub é a fonte oficial de verdade do sistema. Cada disciplina segue a estrutura:
 
-```text
+~~~text
 Disciplina/
 ├── Plano/
 ├── Estado/
 ├── Exercicios/
 ├── Historico/
 └── Referencias/
-```
+~~~
 
 ## Disciplinas
 
@@ -23,16 +23,16 @@ Disciplina/
 
 ## Planos de estudo
 
-- **Cálculo**: planos organizados por fundamentos e Cálculo A, B, C e D.
-- **Física**: planos separados em Física 1, 2, 3 e 4.
+- **Cálculo**: fundamentos e Cálculo A, B, C e D.
+- **Física**: fundamentos compartilhados e Física 1, 2, 3 e 4.
 - **Equações Diferenciais**, **Física Matemática** e **Introdução a Astronomia e Astrofísica**: um plano específico para cada disciplina.
 
 ## Organização
 
-- **Plano**: sequência e planejamento dos conteúdos.
+- **Plano**: currículo, pré-requisitos, diagnóstico, unidades e critérios de domínio.
 - **Estado**: progresso atual e dificuldades relevantes.
 - **Exercicios**: exercícios pendentes e resolvidos.
 - **Historico**: registro cronológico das sessões.
 - **Referencias**: ementas, bibliografia e materiais de apoio.
 
-As novas disciplinas foram inicializadas com arquivos Markdown temporários, prontos para receber seus conteúdos específicos.
+O currículo de Física foi alinhado aos programas oficiais FISI0260–FISI0263 da Universidade Federal de Sergipe e organizado pedagogicamente com diagnóstico, evidências, transferência e revisão espaçada.
