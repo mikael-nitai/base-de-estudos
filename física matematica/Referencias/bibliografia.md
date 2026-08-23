@@ -1,3 +1,3 @@
-# física matematica — Bibliografia
+# Física Matemática — Bibliografia
 
-<!-- TODO: preencher com o conteúdo específico de física matematica. -->
+<!-- TODO: preencher com o conteúdo específico de Física Matemática. -->

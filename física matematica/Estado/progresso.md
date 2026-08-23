@@ -1,3 +1,3 @@
-# física matematica — Progresso atual
+# Física Matemática — Progresso atual
 
-<!-- TODO: preencher com o conteúdo específico de física matematica. -->
+<!-- TODO: preencher com o conteúdo específico de Física Matemática. -->

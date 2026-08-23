@@ -1,3 +1,3 @@
-# física matematica — Materiais de estudo
+# Física Matemática — Materiais de estudo
 
-<!-- TODO: preencher com o conteúdo específico de física matematica. -->
+<!-- TODO: preencher com o conteúdo específico de Física Matemática. -->

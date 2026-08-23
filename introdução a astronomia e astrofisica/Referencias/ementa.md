@@ -1,3 +1,3 @@
-# introdução a astronomia e astrofisica — Ementa
+# Introdução a Astronomia e Astrofísica — Ementa
 
-<!-- TODO: preencher com o conteúdo específico de introdução a astronomia e astrofisica. -->
+<!-- TODO: preencher com o conteúdo específico de Introdução a Astronomia e Astrofísica. -->

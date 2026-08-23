@@ -1,3 +1,3 @@
-# introdução a astronomia e astrofisica — Dificuldades e pontos de atenção
+# Introdução a Astronomia e Astrofísica — Dificuldades e pontos de atenção
 
-<!-- TODO: preencher com o conteúdo específico de introdução a astronomia e astrofisica. -->
+<!-- TODO: preencher com o conteúdo específico de Introdução a Astronomia e Astrofísica. -->

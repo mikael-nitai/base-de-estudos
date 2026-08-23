@@ -1,3 +1,3 @@
-# física matematica — Dificuldades e pontos de atenção
+# Física Matemática — Dificuldades e pontos de atenção
 
-<!-- TODO: preencher com o conteúdo específico de física matematica. -->
+<!-- TODO: preencher com o conteúdo específico de Física Matemática. -->

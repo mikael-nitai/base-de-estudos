@@ -1,3 +1,3 @@
-# introdução a astronomia e astrofisica — Bibliografia
+# Introdução a Astronomia e Astrofísica — Bibliografia
 
-<!-- TODO: preencher com o conteúdo específico de introdução a astronomia e astrofisica. -->
+<!-- TODO: preencher com o conteúdo específico de Introdução a Astronomia e Astrofísica. -->

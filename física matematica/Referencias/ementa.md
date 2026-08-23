@@ -1,3 +1,3 @@
-# física matematica — Ementa
+# Física Matemática — Ementa
 
-<!-- TODO: preencher com o conteúdo específico de física matematica. -->
+<!-- TODO: preencher com o conteúdo específico de Física Matemática. -->

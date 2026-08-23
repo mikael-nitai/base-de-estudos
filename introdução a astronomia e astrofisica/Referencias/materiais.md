@@ -1,3 +1,3 @@
-# introdução a astronomia e astrofisica — Materiais de estudo
+# Introdução a Astronomia e Astrofísica — Materiais de estudo
 
-<!-- TODO: preencher com o conteúdo específico de introdução a astronomia e astrofisica. -->
+<!-- TODO: preencher com o conteúdo específico de Introdução a Astronomia e Astrofísica. -->

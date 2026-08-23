@@ -1,3 +1,3 @@
-# física matematica — Exercícios pendentes
+# Física Matemática — Exercícios pendentes
 
-<!-- TODO: preencher com o conteúdo específico de física matematica. -->
+<!-- TODO: preencher com o conteúdo específico de Física Matemática. -->

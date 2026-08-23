@@ -1,3 +1,3 @@
-# física matematica — Exercícios resolvidos
+# Física Matemática — Exercícios resolvidos
 
-<!-- TODO: preencher com o conteúdo específico de física matematica. -->
+<!-- TODO: preencher com o conteúdo específico de Física Matemática. -->
