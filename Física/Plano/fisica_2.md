@@ -10,7 +10,13 @@ A ideia organizadora é compreender como modelos locais e princípios de conserv
 
 **Base institucional:** FISI0261 – Física 2, Departamento de Física da Universidade Federal de Sergipe. O programa oficial inclui leis de Kepler e gravitação de Newton, energia potencial e velocidade de escape, fluidos, MHS, pêndulos, amortecimento, forçamento, ondas mecânicas, ondas estacionárias, batimentos, Doppler, temperatura, gases ideais, teoria cinética, primeira e segunda leis, máquinas térmicas e entropia.
 
-**Base bibliográfica:** Sears, Zemansky, Young e Freedman, Física II, 12ª edição; Halliday, Resnick e Krane, Fundamentos de Física, volume 2; Alonso e Finn, volume 1; além de Tipler e Mosca e Nussenzveig, volume 2, conforme o programa oficial. Capítulos específicos não são fixados sem confirmação da edição usada.
+**Base bibliográfica:** Sears, Zemansky, Young e Freedman, Física II, 12ª edição; Halliday, Resnick e Krane, Fundamentos de Física, volume 2; Alonso e Finn, volume 1; além de Tipler e Mosca e Nussenzveig, volume 2, conforme o programa oficial. Os PDFs disponíveis no repositório estão identificados em [Física/Referencias/catalogo.md](../Referencias/catalogo.md).
+
+### Materiais enviados para Física 2
+
+- `F2-TIPLER-MOSCA-V1-2009`: usar os capítulos 11, 13–20; os capítulos 1–10 pertencem ao escopo de Física 1 e não devem ser atribuídos automaticamente a esta disciplina.
+- `F2-NUSSENZVEIG-V2-2002`: usar os capítulos 1–11 para o núcleo T2–T10; o capítulo 12 é aprofundamento de mecânica estatística.
+- Ao propor exercícios, registrar o ID, capítulo/seção e problema. O catálogo é a fonte de associação entre PDF e disciplina.
 
 ## Resultado esperado
 
