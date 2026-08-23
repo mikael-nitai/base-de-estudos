@@ -54,15 +54,14 @@ As conexões devem ser usadas como problemas de transferência:
 - Física 3: campos, radiação, espectros e polarização;
 - Física 4: resolução angular, espectroscopia, corpo negro, quantização e relatividade.
 
-## Materiais ainda dependentes de obtenção
+## Catálogo de PDFs
 
-Não há, no estado atual do repositório, PDFs ou roteiros oficiais armazenados em Física/Referencias. Quando forem obtidos, registrar:
+Os PDFs armazenados em `Física/Referencias/` estão indexados em [catalogo.md](catalogo.md). O catálogo é obrigatório para a seleção de leituras e exercícios porque informa:
 
-- origem e URL;
-- curso, turma e semestre;
-- edição/data;
-- unidades cobertas;
-- se o material é oficial, recomendado ou apenas apoio;
-- limitações de acesso ou licença.
+- ID estável do material;
+- disciplina correta;
+- função do arquivo, como livro-texto ou manual de soluções;
+- capítulos e unidades do plano cobertos;
+- regra de uso e rastreabilidade.
 
-Não adicionar materiais externos permanentes sem verificar procedência e compatibilidade com o currículo.
+Os quatro materiais enviados pelo estudante foram catalogados como dois apoios de Física 2 e dois apoios de Física 3. Ao adicionar novos arquivos, repetir esse registro antes de usá-los em exercícios.
