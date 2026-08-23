@@ -32,6 +32,13 @@ Os programas oficiais de FISI0260–FISI0263 indicam as seguintes obras. A ediç
 - ALONSO, M.; FINN, E. J. **Física: um curso universitário**, volumes 2 e 3.
 - Complementar registrada: TIPLER, P. A.; MOSCA, G., **Física para Cientistas e Engenheiros**, volume 3, 6ª edição.
 
+## Materiais enviados e catalogados
+
+- Física 2: Tipler e Mosca, **Física para Cientistas e Engenheiros**, volume 1; e Nussenzveig, **Curso de Física Básica**, volume 2 — IDs `F2-TIPLER-MOSCA-V1-2009` e `F2-NUSSENZVEIG-V2-2002`.
+- Física 3: Halliday, Resnick e Walker, **Fundamentos de Física**, volume 3, 10ª edição; e o **Manual de Soluções** suplementar — IDs `F3-HALLIDAY-V3-2016` e `F3-HALLIDAY-MANUAL-SOLUCOES-2016`.
+
+O mapa detalhado de capítulos, limitações e regras de uso está em [catalogo.md](catalogo.md).
+
 ## Obras de apoio metodológico
 
 - HEWITT, P. G. **Física Conceitual** — útil para recuperar linguagem e previsões qualitativas, sem substituir o tratamento universitário.
