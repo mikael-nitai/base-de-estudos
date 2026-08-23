@@ -1,24 +1,36 @@
 # Progresso
 
-## Estado atual — 10/08/2026
+## Estado atual — 23/08/2026
 
-Foi realizado um diagnóstico inicial dos fundamentos antes do início de Cálculo A. A sessão não concluiu nenhum módulo de fundamentos; ela apenas produziu evidências preliminares para orientar a entrada no curso.
+### Fundamentos
 
-### Evidências observadas
+O diagnóstico inicial avaliou alguns pré-requisitos, mas não concluiu o curso de fundamentos. Permanecem não avaliados ou sem evidência suficiente: fatoração, simplificação de expressões racionais, desigualdades, funções por partes, composição, leitura de gráficos, reta e inclinação, identidades trigonométricas, logaritmos, somatórios, estimativa e verificação de unidades.
 
-- `DF1-fracoes`: subtração de frações resolvida corretamente e com organização adequada. Evidência inicial compatível com desempenho independente rotineiro.
-- `DF1-equacao-quadratica`: raízes de uma equação quadrática identificadas corretamente por soma e produto; as relações \\(x_1+x_2=-b/a\\) e \\(x_1x_2=c/a\\) foram recordadas.
-- `DF2-dominio`: domínio de uma função com raiz quadrada determinado corretamente após uma breve recuperação conceitual. A ideia estava enferrujada, mas foi recuperada na própria sessão.
-- `DF2-inversa-linear`: inversa de uma função linear determinada corretamente, com troca de variáveis e isolamento algébrico.
-- `DF3-trigonometria-angulos-notaveis`: conversão de \\(5\\pi/6\\) para \\(150^\\circ\\) e cálculo do seno realizados corretamente.
-- `DF4-equacao-exponencial`: resolução de \\(2^x=8\\) realizada corretamente por reescrita de \\(8\\) como \\(2^3\\).
+### Cálculo A
 
-Essas evidências são de uma única tentativa e ainda não confirmam estados provisório, operacional ou consolidado.
+#### A1 — Da taxa média à taxa instantânea
 
-### Lacunas ainda não avaliadas
+A unidade foi estudada conceitualmente. O estudante:
 
-Ainda não foram examinados de modo suficiente: fatoração, simplificação de expressões racionais, desigualdades, funções por partes, imagem, composição, leitura de gráficos, reta e inclinação, identidades trigonométricas, logaritmos, somatórios, estimativa e verificação de unidades.
+- calculou corretamente uma taxa média para (s(t)=3t^2+1) entre (t=1) e (t=1{,}5), obtendo (7{,}5);
+- construiu corretamente o quociente incremental em (t=1), obtendo (6+3h);
+- calculou corretamente o limite desse quociente, obtendo (6);
+- interpretou a taxa instantânea como unidades de posição por unidade de tempo;
+- compreendeu a passagem da taxa média para a derivada;
+- acompanhou a obtenção da derivada geral de (f(t)=2t^2-t), resultando em (f'(t)=4t-1).
 
-### Próximo tópico
+A compreensão conceitual de A1 está presente, mas o domínio técnico ainda não deve ser marcado como operacional: em exercícios de transferência, foi necessária correção de sinais ao substituir (t) por (a+h), especialmente em termos como (-(3+h)). A habilidade precisa de uma verificação independente posterior.
 
-Início de Cálculo A pela unidade `A0 — Funções, modelos e múltiplas representações`, retomando domínio, imagem, zeros, crescimento, gráficos, composição e inversas dentro da linguagem própria do cálculo.
+#### A2 — Limites
+
+A unidade foi introduzida conceitualmente. Foi distinguido o valor da função no ponto do comportamento da função nas proximidades e foi mostrado como uma indeterminação (0/0) pode ser resolvida por fatoração. Ainda não há evidência independente do estudante em exercícios de limites.
+
+### Próximo passo
+
+Retomar A2 pelo exercício pendente:
+
+\[
+\\lim_{x\\to3}\\frac{x^2-9}{x-3}.
+\]
+
+Depois, trabalhar limites laterais, limites gráficos e leis de limites.
