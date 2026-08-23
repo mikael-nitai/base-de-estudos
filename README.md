@@ -17,10 +17,15 @@ Disciplina/
 
 - [Cálculo](Calculo/)
 - [Equações Diferenciais](Equações%20Diferenciais/)
-- [Física 2](física%202/)
-- [Física 3](física%203/)
+- [Física](Física/)
 - [Física Matemática](física%20matematica/)
 - [Introdução a Astronomia e Astrofísica](introdução%20a%20astronomia%20e%20astrofisica/)
+
+## Planos de estudo
+
+- **Cálculo**: planos organizados por fundamentos e Cálculo A, B, C e D.
+- **Física**: planos separados em Física 1, 2, 3 e 4.
+- **Equações Diferenciais**, **Física Matemática** e **Introdução a Astronomia e Astrofísica**: um plano específico para cada disciplina.
 
 ## Organização
 
