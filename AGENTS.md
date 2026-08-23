@@ -49,6 +49,24 @@ Contém o registro cronológico das sessões de estudo.
 
 Contém ementas, bibliografia e materiais usados como base.
 
+## Catálogo e rastreabilidade de referências
+
+Antes de recomendar um livro, PDF, capítulo ou exercício baseado em um arquivo da pasta `Referencias/`, o agente deve consultar o catálogo da disciplina, quando existir:
+
+`<Disciplina>/Referencias/catalogo.md`
+
+O catálogo é a fonte de associação entre material, disciplina, capítulos e função pedagógica. O agente deve:
+
+- não inferir a disciplina apenas pelo nome do arquivo;
+- verificar o `material_id`, o escopo e o capítulo/seção antes de indicar um exercício;
+- registrar, quando o exercício for usado, `material_id`, capítulo/seção e número do problema;
+- distinguir livro-texto, lista, solução comentada, manual de respostas e material suplementar;
+- usar o manual de soluções somente após a tentativa independente, salvo quando o objetivo explícito for analisar uma solução;
+- declarar incerteza quando a paginação, edição ou correspondência de capítulos não estiver confirmada;
+- respeitar a ementa/plano institucional quando o material abranger mais de uma disciplina.
+
+Quando um novo PDF for adicionado às referências, ele não deve ser usado como fonte recorrente de exercícios até que seu registro no catálogo esteja criado ou atualizado.
+
 ## Princípios gerais
 
 O agente deve:
@@ -86,7 +104,8 @@ Quando o usuário disser "iniciar estudo", siga este fluxo:
    - "Estado/dificuldades.md";
    - os planos relevantes em "Plano/";
    - "Exercicios/pendentes.md";
-   - as partes necessárias do histórico e das referências.
+   - "Referencias/catalogo.md", quando existir;
+   - as partes necessárias do histórico e das demais referências.
 
 4. Não leia arquivos irrelevantes apenas por precaução. Carregue primeiro o estado atual e amplie a leitura somente quando necessário.
 
