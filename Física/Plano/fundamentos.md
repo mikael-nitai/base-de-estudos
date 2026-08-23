@@ -6,6 +6,10 @@ Este arquivo define a preparação comum para Física 1, Física 2, Física 3 e 
 
 O currículo específico de cada disciplina está nos arquivos fisica_1.md a fisica_4.md. Este plano define o sistema pedagógico compartilhado e os vínculos com Cálculo, Equações Diferenciais e as disciplinas posteriores.
 
+## Identificação e rastreabilidade das referências
+
+Antes de indicar um PDF, o agente deve consultar [Física/Referencias/catalogo.md](../Referencias/catalogo.md). Cada material possui um ID estável, uma disciplina e um mapa de capítulos. Exercícios devem registrar `material_id`, capítulo/seção e problema quando disponíveis. O nome do arquivo sozinho não é evidência suficiente para atribuir o material a uma disciplina.
+
 O objetivo não é transformar Física em um catálogo de fórmulas. O estudante deve aprender a reconhecer uma situação física, escolher um sistema, construir uma representação, selecionar princípios, formular um modelo, calcular e interpretar o resultado. Uma deficiência puramente matemática deve ativar a recuperação correspondente em Calculo/Plano/fundamentos.md, não ser escondida como se fosse uma dificuldade conceitual de Física.
 
 ## Natureza do domínio em Física
