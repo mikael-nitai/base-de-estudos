@@ -34,5 +34,6 @@ Disciplina/
 - **Exercicios**: exercícios pendentes e resolvidos.
 - **Historico**: registro cronológico das sessões.
 - **Referencias**: ementas, bibliografia e materiais de apoio.
+- **Catálogo de referências da Física**: [Física/Referencias/catalogo.md](Física/Referencias/catalogo.md), com associação explícita entre PDF, disciplina, capítulos e uso em exercícios.
 
 O currículo de Física foi alinhado aos programas oficiais FISI0260–FISI0263 da Universidade Federal de Sergipe e organizado pedagogicamente com diagnóstico, evidências, transferência e revisão espaçada.
