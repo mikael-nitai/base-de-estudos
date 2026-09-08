@@ -1,5 +1,16 @@
 # Exercícios resolvidos
 
+## 2026-09-08 — Cálculo C, C1: curvas parametrizadas
+
+Fonte: `Tarefa 1_260908_183650.pdf`, arquivo externo apresentado pelo estudante; material, capítulo/seção e numeração original não informados, portanto não há `material_id` catalogado.
+
+1. **A — Derivada de uma curva parametrizada.** Para `r(t)=(x(t),y(t))`, foi identificada a derivada componente a componente `r'(t)=(x'(t),y'(t))` como a variação instantânea das coordenadas.
+2. **B — Interpretação do vetor tangente.** Foi explicado que `r'(t)` indica a direção e a variação instantânea da curva quando o parâmetro varia. A explicação foi conceitualmente adequada.
+3. **C — Exemplo com `r(t)=(t,t^2)`.** Foi obtido `r'(t)=(1,2t)`, logo `r'(1)=(1,2)`, no ponto `(1,1)`.
+4. **D — Reta tangente em `t=1`.** Usando `dy/dx=(dy/dt)/(dx/dt)`, foi encontrada a inclinação `m=2` e, pela forma ponto-inclinação, `y-1=2(x-1)`, isto é, `y=2x-1`.
+
+**Classificação:** resolvidos corretamente conforme as respostas apresentadas. Recomenda-se revisão independente de orientação, intervalo do parâmetro, eliminação de parâmetro e casos em que `dx/dt=0` antes de considerar C1 consolidada.
+
 ## 2026-08-10 — Diagnóstico inicial dos fundamentos
 
 1. \\(\\frac{2}{3}-\\frac{5}{4}=-\\frac{7}{12}\\). Resolvido corretamente.

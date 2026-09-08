@@ -1,5 +1,20 @@
 # Progresso
 
+## Estado atual — 08/09/2026
+
+### Cálculo C
+
+Foi trabalhada a unidade C1 — curvas parametrizadas e cálculo — por meio dos quatro itens A–D da `Tarefa 1_260908_183650.pdf`:
+
+- interpretação da derivada de uma curva parametrizada;
+- interpretação geométrica do vetor tangente;
+- cálculo de `r'(t)` e `r'(1)` para `r(t)=(t,t^2)`;
+- cálculo da inclinação e da reta tangente em `t=1`, obtendo `y=2x-1`.
+
+As respostas apresentadas estão corretas nos quatro itens observados. Isso constitui evidência inicial de compreensão conceitual e de aplicação direta, mas ainda não é suficiente para marcar C1 como operacional: faltam problemas independentes com orientação, eliminação de parâmetro, intervalos e comparação de parametrizações.
+
+**Próximo passo:** fazer uma verificação independente de C1, incluindo uma parametrização nova, `dy/dx` via regra da cadeia e o efeito do intervalo/orientação; depois avançar para C2 — coordenadas polares — se o resultado for consistente.
+
 ## Estado atual — 23/08/2026
 
 ### Fundamentos
