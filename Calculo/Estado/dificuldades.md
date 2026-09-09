@@ -1,5 +1,11 @@
 # Dificuldades
 
+## Cálculo C — pontos de atenção após 09/09/2026
+
+- A derivação componente a componente de uma função vetorial foi aplicada corretamente para obter velocidade e aceleração.
+- Na curva circular `r(t)=(a cos(t),a sen(t))`, os sinais e as derivadas trigonométricas foram tratados corretamente. Ainda não foi verificada a interpretação de `a(t)` como aceleração centrípeta nem a relação entre velocidade e rapidez.
+- Não há evidência suficiente sobre unidades, domínio do parâmetro ou extensão do procedimento para curvas espaciais em três dimensões. Classificação: conteúdo ainda não verificado, não erro conceitual confirmado.
+
 ## Cálculo C — pontos de atenção após 08/09/2026
 
 - A ideia de derivar as coordenadas de uma curva parametrizada e obter o vetor tangente foi usada corretamente. Em uma formulação, apareceu a expressão imprecisa “derivada dos parâmetros”; manter a distinção entre o parâmetro `t` e as funções coordenadas `x(t)` e `y(t)`.

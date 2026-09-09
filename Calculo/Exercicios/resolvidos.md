@@ -1,5 +1,16 @@
 # Exercícios resolvidos
 
+## 2026-09-09 — Cálculo C, C3: funções vetoriais, velocidade e aceleração
+
+Fonte: `Tarefa 2_260908_235930.pdf`, arquivo externo apresentado pelo estudante; material, capítulo/seção e numeração original não informados, portanto não há `material_id` catalogado.
+
+1. **A — Velocidade de uma curva vetorial.** Para `r(t)=(x(t),y(t))`, foi identificada a velocidade como a primeira derivada, `v(t)=r'(t)=(x'(t),y'(t))`.
+2. **B — Aceleração de uma curva vetorial.** Foi identificada a aceleração como a segunda derivada, `a(t)=r''(t)=(x''(t),y''(t))`.
+3. **C — Velocidade da curva circular.** Para `r(t)=(a cos(t),a sen(t))`, foram calculadas corretamente as derivadas `x'(t)=-a sen(t)` e `y'(t)=a cos(t)`, resultando em `v(t)=(-a sen(t),a cos(t))`.
+4. **D — Aceleração da curva circular.** Derivando novamente a velocidade, foram obtidos corretamente `x''(t)=-a cos(t)` e `y''(t)=-a sen(t)`, resultando em `a(t)=(-a cos(t),-a sen(t))`.
+
+**Classificação:** resolvidos corretamente conforme as respostas apresentadas. Recomenda-se revisão independente da interpretação geométrica, da rapidez, das unidades e da aceleração centrípeta.
+
 ## 2026-09-08 — Cálculo C, C1: curvas parametrizadas
 
 Fonte: `Tarefa 1_260908_183650.pdf`, arquivo externo apresentado pelo estudante; material, capítulo/seção e numeração original não informados, portanto não há `material_id` catalogado.

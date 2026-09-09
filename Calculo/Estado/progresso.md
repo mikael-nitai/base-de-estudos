@@ -1,5 +1,20 @@
 # Progresso
 
+## Estado atual — 09/09/2026
+
+### Cálculo C
+
+Foi trabalhada a unidade C3 — funções vetoriais e curvas espaciais — por meio dos quatro itens A–D da `Tarefa 2_260908_235930.pdf`:
+
+- derivação componente a componente da posição para obter a velocidade;
+- nova derivação para obter a aceleração;
+- aplicação à curva circular `r(t)=(a cos(t),a sen(t))`, obtendo `v(t)=(-a sen(t),a cos(t))`;
+- obtenção da aceleração `a(t)=(-a cos(t),-a sen(t))`.
+
+As respostas apresentadas estão corretas nos quatro itens. Há evidência inicial de compreensão da relação entre posição, velocidade e aceleração como derivadas sucessivas, mas ainda faltam uma interpretação geométrica/ física da aceleração, controle de unidades e uma questão independente em três dimensões.
+
+**Próximo passo:** resolver uma questão nova de função vetorial envolvendo domínio, vetor tangente ou interpretação de velocidade/rapidez; depois retomar a verificação pendente de C1 e avaliar a progressão para C4.
+
 ## Estado atual — 08/09/2026
 
 ### Cálculo C
