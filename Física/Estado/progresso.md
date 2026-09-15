@@ -2,9 +2,9 @@
 
 ## Estado atual
 
-Física 3 foi iniciada pela unidade E0 e avançou para os fundamentos de E1. A sessão trabalhou a separação entre carga-fonte, campo elétrico e força elétrica, a lei de Coulomb, superposição e o vetor radial unitário.
+Física 3 foi iniciada pela unidade E0 e avançou na prática de E1. A sessão consolidou a separação entre carga-fonte, campo elétrico e força elétrica, a lei de Coulomb vetorial, o vetor radial unitário e a orientação das componentes em coordenadas.
 
-Há evidência de compreensão inicial: o estudante respondeu corretamente às questões sobre o sentido do campo de uma carga positiva, a força sobre uma carga de prova negativa e o cancelamento do campo no ponto médio entre duas cargas positivas idênticas. A formulação matemática vetorial ainda está em consolidação; portanto, E0/E1 não devem ser considerados dominados.
+Há evidência de compreensão conceitual e operacional inicial: o estudante resolveu dois exercícios de uma carga pontual fora da origem, identificou o campo de uma carga positiva como radialmente para fora e determinou corretamente o sentido da força sobre uma carga de prova negativa. Ocorreram lapsos operacionais corrigidos com ajuda — soma indevida de posições, uso de `r` no lugar de `r²` e perda de um sinal em uma componente —, portanto E0/E1 ainda não devem ser considerados dominados.
 
 ## Último tópico trabalhado
 
@@ -14,16 +14,19 @@ Há evidência de compreensão inicial: o estudante respondeu corretamente às q
 - exemplo `P = (3,4)`, com `r̂ = (3/5)î + (4/5)ĵ`;
 - passagem da forma escalar para a forma vetorial da lei de Coulomb;
 - sequência conceitual `q → E → F`.
+- dois exercícios em coordenadas: `q = +3 nC`, com `r⃗ = 4î + 3ĵ`, e `q = +4 nC`, com `r⃗ = -3î + 4ĵ`;
+- interpretação do sinal das componentes e da força sobre `q₀ < 0`.
 
 ## Próximo tópico
 
-Retomar a lei de Coulomb vetorial e a superposição com componentes, começando por uma carga fora da origem e depois por duas ou três cargas pontuais. Em cada problema, identificar primeiro a carga-fonte, o ponto de observação, o vetor deslocamento e a orientação antes de substituir valores.
+Aplicar a lei de Coulomb vetorial à superposição de duas cargas pontuais, somando componentes e justificando sinais, direção e possíveis cancelamentos. Depois avançar para três cargas sem receber previamente o eixo ou a direção do campo resultante.
 
 ## Revisões necessárias
 
 - distinguir campo elétrico de força elétrica e lembrar que `F⃗ = q₀E⃗`;
 - construir `r⃗ = posição do ponto − posição da carga-fonte`;
 - normalizar corretamente o vetor radial e interpretar seus sinais nas componentes;
+- conferir a subtração, `r²`, sinais e presença das componentes na resposta final;
 - não inferir que existe campo não nulo em todo ponto sem carga local: cargas distantes podem produzir campo, mas também pode haver cancelamento e `E⃗ = 0`;
 - separar força resultante nula de estabilidade: o ponto médio do exemplo simétrico é um equilíbrio instável para uma carga deslocável ao longo da linha das fontes.
 
