@@ -7,6 +7,9 @@
 - **Conferência operacional:** lapsos de atenção produziram soma indevida de posições, troca entre `r` e `r²` e perda de um sinal; usar uma verificação final por deslocamento geométrico, unidade e direção.
 - **Campo em regiões sem carga local:** consolidar que a ausência de carga no ponto não implica ausência de campo, mas que simetria e superposição também podem produzir campo nulo.
 - **Equilíbrio e estabilidade:** manter a distinção entre força resultante nula em um ponto e estabilidade do equilíbrio.
+- **Cargas contínuas e cálculo:** a ideia de decompor uma linha, anel, disco ou casca em elementos diferenciais foi compreendida como estratégia, mas ainda é necessário escolher a geometria do elemento, escrever `dq`, definir os limites e executar a integral sem apoio.
+- **Sinais no exercício 20:** o estudante reconheceu corretamente que a anulação exige vetores de força opostos e iguais em módulo, mas ainda estava confundindo a linguagem de “sinal” das cargas com a direção dos vetores de força. Reforçar: cargas de sinais opostos, nesse arranjo, produzem forças de sentidos opostos sobre A quando `θ=0°`; os vetores têm direções, não “sinais”.
+- **Escala geométrica e leitura de gráfico:** ainda precisa relacionar `AC=2d` a `r²=(2d)²` e usar os valores de `F_tot` em `θ=0°` e `180°` para extrair as razões entre cargas.
 
 ## Evidências e correções realizadas
 
