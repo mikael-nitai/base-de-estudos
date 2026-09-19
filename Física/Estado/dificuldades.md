@@ -1,6 +1,16 @@
 # Física — Dificuldades e pontos de atenção
 
-## Dificuldades ativas
+## Dificuldades ativas — Física 2
+
+- **Distância de lançamento:** distinguir o raio do corpo central `R` da distância `r₀` entre o objeto e o centro no instante inicial; o exercício de escape foi resolvido corretamente após essa distinção.
+- **Notação gravitacional:** conservar a separação entre `M` (massa central) e `m` (massa do objeto que escapa), e entre velocidade orbital circular e velocidade de escape.
+- **Conservação de energia:** explicar que `K+U` inclui a energia da interação gravitacional; a energia cinética do objeto sozinho não é conservada quando a força do corpo central é externa ao sistema escolhido.
+- **Cálculo operacional:** conferir raízes, potências de dez, unidades e fatores `1/2` em energia cinética. O resultado do exercício de escape foi correto com arredondamento, mas a fórmula foi escrita algumas vezes com símbolos inadequados.
+- **Momento angular e órbitas elípticas:** a derivação conceitual foi acompanhada, mas ainda falta resolver independentemente a relação entre velocidades no periélio e no afélio e interpretar áreas iguais em tempos iguais.
+- **T1 incompleto:** ainda não há evidência independente para calcular a massa do Sol, comparar massas orbitais ou resolver energia orbital em uma questão não guiada.
+- **T2 e aplicações de T8:** ainda não foram avaliados nesta sessão; não presumir domínio de pressão, empuxo, prensa hidráulica, camadas fluidas, temperatura ou retenção atmosférica.
+
+## Dificuldades ativas — Física 3 (preservadas)
 
 - **Vetores radiais e componentes:** a compreensão do procedimento foi demonstrada em dois exercícios, mas ainda é necessário conferir a construção componente a componente antes de finalizar.
 - **Direção e sinal na forma vetorial:** verificar sistematicamente a origem e o destino do vetor radial, conservar os sinais das componentes e considerar o efeito do sinal de `q` antes de concluir o sentido do campo ou da força.

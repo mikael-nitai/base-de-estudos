@@ -1,5 +1,21 @@
 # Física — Exercícios pendentes
 
+## Física 2 — sessão de 2026-09-19
+
+### Resolvido corretamente
+
+- Exercício autoral de velocidade de escape em planeta: partes (a)–(d), incluindo `r₀=R+h`, velocidade de escape, velocidade orbital circular e energia cinética mínima. Não foi usado material catalogado.
+
+### Trabalhado com explicação posterior
+
+- Parte (e) do exercício autoral de velocidade de escape: foi estabelecido que a velocidade de escape não depende da massa da sonda, enquanto a energia cinética mínima é proporcional à massa. Falta uma formulação independente do estudante para considerar a parte consolidada.
+
+### Pendentes
+
+- Exercício autoral de momento angular: planeta com `r_p=1,0×10¹¹ m`, `v_p=3,0×10⁴ m/s` e `r_a=3,0×10¹¹ m`; determinar `v_a` usando `r_pv_p=r_av_a` e interpretar a segunda lei de Kepler.
+- `ListaExercicio01-fis2.pdf` (arquivo externo, ainda sem `material_id` no catálogo) → questão 2(a): raio orbital do asteroide e massa do Sol; ainda não iniciada numericamente.
+- Demais questões da lista, especialmente T2 e as aplicações seletivas de T8 e elasticidade, ainda não tentadas.
+
 ## Concluído nesta sessão
 
 - Dois exercícios autorais de uma carga pontual fora da origem: construção de `r⃗`, cálculo de `r`, normalização de `r̂`, campo elétrico e sentido da força sobre carga de prova negativa. Ambos foram resolvidos com correções pontuais e sem uso de material externo.

@@ -1,5 +1,15 @@
 # Física — Exercícios resolvidos
 
+## 2026-09-19 — Física 2: velocidade de escape
+
+**Fonte:** exercício autoral produzido durante a sessão; nenhum PDF ou problema numerado do catálogo foi utilizado.
+
+- Para um planeta de massa `4,8×10²⁴ kg`, raio `6,0×10⁶ m`, altitude `2,0×10⁶ m` e sonda de `250 kg`, o estudante determinou corretamente `r₀=8,0×10⁶ m`.
+- Resolveu corretamente as partes (a)–(d): velocidade de escape aproximadamente `8,95×10³ m/s`, velocidade orbital aproximadamente `6,33×10³ m/s` e energia cinética mínima aproximadamente `1,01×10¹⁰ J`.
+- A independência da velocidade de escape em relação à massa da sonda e a proporcionalidade da energia cinética à massa foram explicadas posteriormente; a parte (e) permanece como evidência a confirmar em nova formulação independente.
+
+Resultado: resolução correta com pequenos cuidados de notação (`M` versus `m` e `R` versus `r₀`) e arredondamento operacional.
+
 ## 2026-09-14 — diagnóstico e superposição
 
 **Fonte:** exercício conceitual produzido durante a sessão; nenhum PDF ou problema numerado do catálogo foi utilizado.

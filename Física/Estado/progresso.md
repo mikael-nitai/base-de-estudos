@@ -2,11 +2,52 @@
 
 ## Estado atual
 
+A sessão de 2026-09-19 iniciou Física 2 pelo T0 e avançou em T1. Não havia estudo de Física 2 registrado anteriormente; os registros permanentes anteriores tratam de Física 3. Houve compreensão demonstrada da escolha de sistema, da distinção entre campo e força gravitacional, da energia potencial, da conservação de energia, da órbita circular e da velocidade de escape. O estudante resolveu corretamente, de forma independente, as partes (a)–(d) de um exercício autoral de velocidade de escape e corrigiu a interpretação da distância de lançamento.
+
+T1 ainda não deve ser considerado dominado: a terceira lei de Kepler ainda não foi aplicada numericamente à massa do Sol, o momento angular foi apenas desenvolvido conceitualmente e o exercício de periélio/afélio ficou pendente. T2, a aplicação seletiva de T8 e a ponte de elasticidade de Física 1 ainda não foram estudados nesta sessão.
+
+## Último tópico trabalhado — sessão de 2026-09-19
+
+- sistema, ambiente e fronteira na análise de um problema gravitacional;
+- campo gravitacional e força gravitacional, com `g=GM/r²` e `F=mg`;
+- energia potencial gravitacional `U=-GMm/r`, referência do zero de energia e conservação de `K+U`;
+- órbita circular, `v_c=sqrt(GM/r)` e derivação de `T²=4π²r³/(GM)`;
+- velocidade de escape `v_e=sqrt(2GM/r)` e relação `v_e=sqrt(2)v_c`;
+- distinção entre o raio do corpo central e a distância inicial do objeto ao centro;
+- momento angular `L=r×p`, torque gravitacional nulo e conservação de `L` em força central;
+- derivação de `dA/dt=L/(2m)` e interpretação da segunda lei de Kepler;
+- exercício autoral com planeta de `M=4,8×10²⁴ kg`, `R=6,0×10⁶ m`, altitude `h=2,0×10⁶ m` e sonda de `250 kg`: partes (a)–(d) corretas; a parte (e) foi concluída apenas com explicação posterior.
+
+## Próximo tópico
+
+Resolver o exercício de momento angular entre periélio e afélio. Depois concluir T1 com a aplicação numérica da terceira lei de Kepler à questão 2(a) da lista, incluindo o cálculo do raio orbital e da massa do Sol. Em seguida, estudar energia orbital e comparação de massas antes de iniciar T2, fluidos em equilíbrio.
+
+## Revisões necessárias para Física 2
+
+- manter a distinção entre massa central `M`, massa de prova `m`, raio do corpo `R` e distância de lançamento `r₀`;
+- interpretar corretamente o sinal de `U`: ao aumentar `r`, a energia potencial fica menos negativa;
+- distinguir velocidade orbital circular de velocidade em órbita elíptica;
+- conferir raízes, potências de dez e unidades em cálculos gravitacionais;
+- explicar conservação de energia incluindo a energia potencial da interação, em vez de afirmar que a energia do objeto isolado se conserva sob força externa;
+- relacionar conservação de momento angular, velocidade tangencial e áreas varridas;
+- ainda verificar de forma independente o cálculo de `K_min` quando a massa da sonda muda.
+
+## Pendências atuais de Física 2
+
+- resolver independentemente a parte (e) do exercício autoral de velocidade de escape;
+- resolver o exercício de periélio/afélio usando `r_pv_p=r_av_a`;
+- concluir a questão 2(a) da lista e obter a massa do Sol;
+- desenvolver T2: pressão, densidade, prensa hidráulica, empuxo, transbordamento e camadas esféricas;
+- estudar a aplicação seletiva de T8 sobre temperatura, movimento molecular e retenção atmosférica;
+- revisar elasticidade e cisalhamento de Física 1 para a questão 4(e) da lista.
+
+## Estado anterior documentado — Física 3
+
 Física 3 foi iniciada pela unidade E0 e avançou na prática de E1. As sessões recentes abordaram cargas contínuas, fluxo elétrico e Lei de Gauss, mas a base conceitual e operacional ainda precisa ser recuperada antes de avançar de forma independente pelos exercícios dos capítulos 21–24.
 
 Há evidência de compreensão inicial de vetores radiais, sentido do campo de uma carga positiva, força sobre uma carga de prova negativa e cancelamento por simetria. No exercício 26 do Capítulo 22, o estudante identificou corretamente que as componentes horizontais se anulam e que deve ser integrada a componente vertical. Ainda travou na passagem do arco inteiro para o elemento infinitesimal e na integral. O exercício 21 do Capítulo 21 foi acompanhado com derivação guiada, sem evidência de resolução independente. E0/E1, cargas contínuas, fluxo e Lei de Gauss não devem ser considerados dominados.
 
-## Último tópico trabalhado
+## Último tópico trabalhado — Física 3 (sessões anteriores)
 
 - vetor radial e vetor radial unitário;
 - vetor radial como deslocamento da carga-fonte até o ponto de observação;
@@ -25,11 +66,11 @@ Há evidência de compreensão inicial de vetores radiais, sentido do campo de u
 - `F3-HALLIDAY-V3-2016` → Capítulo 21, seção **A Lei de Coulomb** → exercício **21**, com `ρ=b/r`: montagem guiada de `dq=ρ\,dτ`, `dτ=4πr²dr` e integração entre os raios da casca;
 - `F3-HALLIDAY-V3-2016` → Capítulo 22, seção **Campos elétricos** → exercício **26**: simetria da semicircunferência, densidade linear e componente vertical; a montagem foi iniciada, mas a integral não foi concluída pelo estudante.
 
-## Próximo tópico
+## Próximo tópico anterior — Física 3
 
 Retomar a base conceitual de eletrostática: fonte, campo, força, vetor radial, densidade de carga, elemento diferencial, simetria e componentes. Depois refazer uma distribuição contínua simples e concluir o exercício 26 do Capítulo 22 com orientação reduzida. Em seguida, revisar fluxo e Lei de Gauss com exemplos simples antes de retomar os exercícios 20 e 21 do Capítulo 21. A superposição em coordenadas de duas e três cargas pontuais continua como recuperação necessária.
 
-## Revisões necessárias
+## Revisões necessárias — Física 3
 
 - distinguir campo elétrico de força elétrica e lembrar que `F⃗ = q₀E⃗`;
 - construir `r⃗ = posição do ponto − posição da carga-fonte`;
@@ -50,7 +91,7 @@ Retomar a base conceitual de eletrostática: fonte, campo, força, vetor radial,
 
 Nas próximas sessões, fundamentar a teoria antes da álgebra, definir cada símbolo e cada elemento das fórmulas e desenvolver a matemática passo a passo. Evitar introduzir uma forma vetorial sem explicar previamente a origem do vetor, seu módulo, sua direção e sua normalização.
 
-## Pendências
+## Pendências — Física 3
 
 - resolver exercícios de lei de Coulomb vetorial e superposição em coordenadas;
 - concluir independentemente o `F3-HALLIDAY-V3-2016 → Capítulo 21, seção A Lei de Coulomb → exercício 20`;
