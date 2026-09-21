@@ -2,9 +2,21 @@
 
 ## Estado atual
 
-A sessão de 2026-09-19 iniciou Física 2 pelo T0 e avançou em T1. Não havia estudo de Física 2 registrado anteriormente; os registros permanentes anteriores tratam de Física 3. Houve compreensão demonstrada da escolha de sistema, da distinção entre campo e força gravitacional, da energia potencial, da conservação de energia, da órbita circular e da velocidade de escape. O estudante resolveu corretamente, de forma independente, as partes (a)–(d) de um exercício autoral de velocidade de escape e corrigiu a interpretação da distância de lançamento.
+A sessão de 2026-09-20 continuou a lista `ListaExercicio01-fis2.pdf` em ordem, depois da base construída em 2026-09-19. Em T0, houve resposta adequada sobre pressão hidrostática, unificação das leis terrestres e celestes e escolha da referência do potencial; atmosfera e uso do mercúrio exigiram correções e explicação. Em T1, a questão 2(a) foi resolvida corretamente, com dificuldade operacional em conversões, potências e raízes; a questão 2(c) teve montagem correta e interpretação correta do sinal, mas precisa ser corrigida numericamente usando `r_f=2,28×10^11 m` e explicitando `m_g=m_i`.
 
-T1 ainda não deve ser considerado dominado: a terceira lei de Kepler ainda não foi aplicada numericamente à massa do Sol, o momento angular foi apenas desenvolvido conceitualmente e o exercício de periélio/afélio ficou pendente. T2, a aplicação seletiva de T8 e a ponte de elasticidade de Física 1 ainda não foram estudados nesta sessão.
+T1 ainda não deve ser considerado dominado. A questão 2(b) foi estudada anteriormente, mas não foi refeita nesta sessão; 2(d) e 2(e) continuam pendentes; o exercício independente de periélio/afélio e problemas de energia orbital também continuam pendentes. T2 ainda não foi iniciado.
+
+Os registros permanentes anteriores tratam também de Física 3; eles permanecem separados e válidos.
+
+## Último tópico trabalhado — sessão de 2026-09-20
+
+- questão 1(a): pressão hidrostática em atmosfera e oceano; densidade aproximadamente constante da água e compressibilidade do ar;
+- questão 1(b): unificação newtoniana de fenômenos terrestres e celestes; fases de Vênus e movimento retrógrado como fenômenos geométricos/dinâmicos distintos;
+- questão 1(c): arbitrariedade do zero do potencial e invariância da diferença de potencial;
+- questão 1(d): retenção atmosférica por gravidade, temperatura, composição e processos de perda; campo magnético como fator auxiliar, não condição única;
+- questão 1(e): uso do mercúrio para formar amálgama com ouro, com risco de toxicidade;
+- questão 2(a): `a≈1,965×10^11 m` e `M_☉≈2×10^30 kg`, usando a terceira lei de Kepler e a hipótese de massa do asteroide desprezível;
+- questão 2(c): `U=-GMm/r`, deslocamento para `1,52 UA`, sinal positivo de `ΔU` e equivalência `m_g=m_i`; o valor precisa ser recalculado com o raio final sem arredondamento excessivo.
 
 ## Último tópico trabalhado — sessão de 2026-09-19
 
@@ -20,7 +32,7 @@ T1 ainda não deve ser considerado dominado: a terceira lei de Kepler ainda não
 
 ## Próximo tópico
 
-Resolver o exercício de momento angular entre periélio e afélio. Depois concluir T1 com a aplicação numérica da terceira lei de Kepler à questão 2(a) da lista, incluindo o cálculo do raio orbital e da massa do Sol. Em seguida, estudar energia orbital e comparação de massas antes de iniciar T2, fluidos em equilíbrio.
+Corrigir e fechar a questão 2(c) da lista; resolver 2(d), estimando a variação da energia cinética, e depois 2(e), comparando a massa de Marte com a da Terra sem usar explicitamente `G`. Em seguida, resolver a questão 3, que inicia T2 com prensa hidráulica, empuxo, transbordamento, densidade e massa de água/areia. Depois retomar o exercício independente de periélio/afélio e problemas de energia orbital.
 
 ## Revisões necessárias para Física 2
 
@@ -28,16 +40,20 @@ Resolver o exercício de momento angular entre periélio e afélio. Depois concl
 - interpretar corretamente o sinal de `U`: ao aumentar `r`, a energia potencial fica menos negativa;
 - distinguir velocidade orbital circular de velocidade em órbita elíptica;
 - conferir raízes, potências de dez e unidades em cálculos gravitacionais;
+- preservar algarismos significativos em diferenças de energias próximas; em 2(c), usar `1,52 UA=2,28×10^11 m` em vez de `2,2×10^11 m`;
+- distinguir semieixo maior `a` de raio instantâneo `r`, e massa gravitacional `m_g` de massa inercial `m_i`, declarando `m_g=m_i` como hipótese newtoniana;
 - explicar conservação de energia incluindo a energia potencial da interação, em vez de afirmar que a energia do objeto isolado se conserva sob força externa;
 - relacionar conservação de momento angular, velocidade tangencial e áreas varridas;
 - ainda verificar de forma independente o cálculo de `K_min` quando a massa da sonda muda.
 
 ## Pendências atuais de Física 2
 
-- resolver independentemente a parte (e) do exercício autoral de velocidade de escape;
+- reformular independentemente os pontos corrigidos da questão 1(d) e a explicação da amálgama de mercúrio da 1(e), se forem usados como evidência de domínio;
+- concluir numericamente a questão 2(c) com `r_f=2,28×10^11 m`;
+- resolver 2(d) e 2(e) da lista; 2(b) foi estudada anteriormente e aguarda apenas conferência/registro nesta sequência;
 - resolver o exercício de periélio/afélio usando `r_pv_p=r_av_a`;
-- concluir a questão 2(a) da lista e obter a massa do Sol;
-- desenvolver T2: pressão, densidade, prensa hidráulica, empuxo, transbordamento e camadas esféricas;
+- resolver problemas de energia orbital e comparação de massas sem método indicado;
+- desenvolver T2 pela questão 3: pressão, densidade, prensa hidráulica, empuxo, transbordamento e camadas esféricas;
 - estudar a aplicação seletiva de T8 sobre temperatura, movimento molecular e retenção atmosférica;
 - revisar elasticidade e cisalhamento de Física 1 para a questão 4(e) da lista.
 

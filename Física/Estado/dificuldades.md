@@ -6,8 +6,11 @@
 - **Notação gravitacional:** conservar a separação entre `M` (massa central) e `m` (massa do objeto que escapa), e entre velocidade orbital circular e velocidade de escape.
 - **Conservação de energia:** explicar que `K+U` inclui a energia da interação gravitacional; a energia cinética do objeto sozinho não é conservada quando a força do corpo central é externa ao sistema escolhido.
 - **Cálculo operacional:** conferir raízes, potências de dez, unidades e fatores `1/2` em energia cinética. O resultado do exercício de escape foi correto com arredondamento, mas a fórmula foi escrita algumas vezes com símbolos inadequados.
+- **Lista 01, questões qualitativas:** distinguir o papel da gravidade, temperatura, composição e perda atmosférica do papel auxiliar do campo magnético; distinguir a densidade do mercúrio da formação química de uma amálgama com ouro.
+- **Lista 01, questão 2(a):** o modelo da terceira lei de Kepler foi escolhido corretamente e o resultado foi obtido, mas conversões de ano para segundo, potências de dez e raízes exigiram várias tentativas.
+- **Lista 01, questão 2(c):** a montagem de `ΔU` e a interpretação do sinal foram corretas; ainda é necessário conservar precisão em `1,52 UA=2,28×10^11 m` e explicitar que `m_g=m_i` pela hipótese de equivalência.
 - **Momento angular e órbitas elípticas:** a derivação conceitual foi acompanhada, mas ainda falta resolver independentemente a relação entre velocidades no periélio e no afélio e interpretar áreas iguais em tempos iguais.
-- **T1 incompleto:** ainda não há evidência independente para calcular a massa do Sol, comparar massas orbitais ou resolver energia orbital em uma questão não guiada.
+- **T1 incompleto:** há evidência de cálculo correto da massa solar em 2(a), mas ainda não há conclusão independente de 2(c) com precisão, comparação de massas em 2(e), variação cinética em 2(d) ou energia orbital em questão não guiada.
 - **T2 e aplicações de T8:** ainda não foram avaliados nesta sessão; não presumir domínio de pressão, empuxo, prensa hidráulica, camadas fluidas, temperatura ou retenção atmosférica.
 
 ## Dificuldades ativas — Física 3 (preservadas)

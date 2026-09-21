@@ -1,5 +1,25 @@
 # Física — Exercícios pendentes
 
+## Física 2 — sessão de 2026-09-20
+
+### Resolvidos corretamente ou com compreensão demonstrada
+
+- `ListaExercicio01-fis2.pdf` (arquivo externo, sem `material_id` no catálogo) → questão 1(a)–(c): respostas conceituais adequadas após refinamento; pressão hidrostática, unificação terrestre/celeste e referência do potencial foram compreendidas.
+- `ListaExercicio01-fis2.pdf` → questão 2(a): raio orbital médio `a≈1,965×10^11 m` e massa solar `M_☉≈2×10^30 kg`. A solução exigiu tentativas de cálculo, mas o modelo e o resultado final foram corretos.
+
+### Trabalhados com explicação ou correção
+
+- `ListaExercicio01-fis2.pdf` → questão 1(d): resposta inicial identificou composição, massa e campo magnético; foi corrigida para incluir velocidade de escape, temperatura, perda atmosférica e o papel não exclusivo do campo magnético.
+- `ListaExercicio01-fis2.pdf` → questão 1(e): o estudante não conhecia o processo; foi explicado que o mercúrio forma uma amálgama com o ouro. Falta formulação independente se o item for usado como evidência.
+- `ListaExercicio01-fis2.pdf` → questão 2(c): montagem correta de `ΔU` e conclusão de que o deslocamento para fora aumenta a energia potencial. Falta recalcular com `r_f=2,28×10^11 m` e registrar `m_g=m_i=1,9×10^15 kg` como hipótese de equivalência.
+
+### Pendentes
+
+- `ListaExercicio01-fis2.pdf` → questão 2(d): estimar a energia cinética recebida ou perdida.
+- `ListaExercicio01-fis2.pdf` → questão 2(e): determinar a massa relativa de Marte em relação à Terra sem conhecer `G`.
+- `ListaExercicio01-fis2.pdf` → questão 2(b): fórmula de velocidade de escape já estudada anteriormente; falta apenas conferência/registro nesta sequência, caso necessário.
+- `ListaExercicio01-fis2.pdf` → questão 3, início de T2: prensa hidráulica, empuxo, transbordamento, areia e massa final.
+
 ## Física 2 — sessão de 2026-09-19
 
 ### Resolvido corretamente
@@ -13,7 +33,6 @@
 ### Pendentes
 
 - Exercício autoral de momento angular: planeta com `r_p=1,0×10¹¹ m`, `v_p=3,0×10⁴ m/s` e `r_a=3,0×10¹¹ m`; determinar `v_a` usando `r_pv_p=r_av_a` e interpretar a segunda lei de Kepler.
-- `ListaExercicio01-fis2.pdf` (arquivo externo, ainda sem `material_id` no catálogo) → questão 2(a): raio orbital do asteroide e massa do Sol; ainda não iniciada numericamente.
 - Demais questões da lista, especialmente T2 e as aplicações seletivas de T8 e elasticidade, ainda não tentadas.
 
 ## Concluído nesta sessão
