@@ -11,7 +11,10 @@
 - **Lista 01, questão 2(c):** a montagem de `ΔU` e a interpretação do sinal foram corretas; ainda é necessário conservar precisão em `1,52 UA=2,28×10^11 m` e explicitar que `m_g=m_i` pela hipótese de equivalência.
 - **Momento angular e órbitas elípticas:** a derivação conceitual foi acompanhada, mas ainda falta resolver independentemente a relação entre velocidades no periélio e no afélio e interpretar áreas iguais em tempos iguais.
 - **T1 incompleto:** há evidência de cálculo correto da massa solar em 2(a), mas ainda não há conclusão independente de 2(c) com precisão, comparação de massas em 2(e), variação cinética em 2(d) ou energia orbital em questão não guiada.
-- **T2 e aplicações de T8:** ainda não foram avaliados nesta sessão; não presumir domínio de pressão, empuxo, prensa hidráulica, camadas fluidas, temperatura ou retenção atmosférica.
+- **T2 — aplicação matemática:** os conceitos de densidade, pressão, pressão hidrostática e empuxo foram reconhecidos, mas ainda é necessário traduzir o diagrama de forças em equação, manter sinais e unidades e executar o cálculo sem ajuda.
+- **T2 — equilíbrio com empuxo:** no bloco submerso preso ao fundo, a relação `F_E-T-mg=0` foi montada corretamente e a tensão foi orientada para baixo; ainda falta resolver numericamente e evitar contar separadamente as forças de pressão depois de reuni-las no empuxo.
+- **T2 — camadas e notação:** a pressão foi inicialmente descrita como formando degraus entre camadas; corrigir para pressão contínua com mudança de inclinação. Usar `F_E` para empuxo, `mg` ou `W` para peso e `P` para pressão.
+- **T2 e aplicações de T8:** Pascal, flutuação, suspensão, afundamento, transbordamento, camadas fluidas, temperatura e retenção atmosférica ainda não têm evidência independente suficiente.
 
 ## Dificuldades ativas — Física 3 (preservadas)
 

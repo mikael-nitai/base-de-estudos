@@ -4,9 +4,20 @@
 
 A sessão de 2026-09-20 continuou a lista `ListaExercicio01-fis2.pdf` em ordem, depois da base construída em 2026-09-19. Em T0, houve resposta adequada sobre pressão hidrostática, unificação das leis terrestres e celestes e escolha da referência do potencial; atmosfera e uso do mercúrio exigiram correções e explicação. Em T1, a questão 2(a) foi resolvida corretamente, com dificuldade operacional em conversões, potências e raízes; a questão 2(c) teve montagem correta e interpretação correta do sinal, mas precisa ser corrigida numericamente usando `r_f=2,28×10^11 m` e explicitando `m_g=m_i`.
 
-T1 ainda não deve ser considerado dominado. A questão 2(b) foi estudada anteriormente, mas não foi refeita nesta sessão; 2(d) e 2(e) continuam pendentes; o exercício independente de periélio/afélio e problemas de energia orbital também continuam pendentes. T2 ainda não foi iniciado.
+A sessão de 2026-09-21 fez uma triagem de T1 e iniciou T2. Em T1, houve resposta conceitual adequada sobre a variação de `U`, `K` e da energia mecânica quando a sonda se afasta, com correção da condição especial em que `K` tende a zero no escape mínimo. As leis de Kepler e os campos de uma casca esférica e de uma esfera maciça foram revisados, mas sem nova resolução independente. Em T2, densidade, pressão escalar, pressão hidrostática, experiência de Torricelli e elasticidade foram revisadas; as respostas conceituais foram em geral adequadas. No bloco submerso preso ao fundo, a equação `F_E-T-mg=0` foi montada corretamente, mas a aplicação numérica ainda não foi feita.
+
+T1 ainda não deve ser considerado dominado. A questão 2(b) foi estudada anteriormente, mas não foi refeita; 2(d) e 2(e) continuam pendentes; o exercício independente de periélio/afélio e problemas de energia orbital também continuam pendentes. T2 foi iniciado conceitualmente, mas ainda não há evidência independente de aplicação matemática em empuxo, prensa hidráulica ou camadas fluidas.
 
 Os registros permanentes anteriores tratam também de Física 3; eles permanecem separados e válidos.
+
+## Último tópico trabalhado — sessão de 2026-09-21
+
+- triagem de T1: conservação de energia em afastamento gravitacional, com `U` aumentando, ficando menos negativa, `K` diminuindo e `K+U` constante;
+- revisão das leis de Kepler, distinguindo semieixo maior `a` de distância instantânea `r`;
+- revisão do campo gravitacional de uma casca esférica e de uma esfera maciça uniforme, incluindo densidade superficial e volumétrica;
+- início de T2 a partir da aula externa `Fisica02_Aula09_2026B.pdf`, sem `material_id` no catálogo: densidade, massa específica, densidade relativa, pressão, pressão hidrostática, Torricelli, elasticidade e módulos de Young, cisalhamento e compressibilidade;
+- respostas conceituais sobre T2: pressão como escalar, força de pressão perpendicular, aumento da pressão com a profundidade e comportamento qualitativo da pressão em camadas terrestres;
+- montagem do equilíbrio de um bloco totalmente submerso preso ao fundo: `F_E-T-mg=0`; a tensão foi identificada como descendente, mas o exercício numérico ficou pendente.
 
 ## Último tópico trabalhado — sessão de 2026-09-20
 
@@ -32,7 +43,7 @@ Os registros permanentes anteriores tratam também de Física 3; eles permanecem
 
 ## Próximo tópico
 
-Corrigir e fechar a questão 2(c) da lista; resolver 2(d), estimando a variação da energia cinética, e depois 2(e), comparando a massa de Marte com a da Terra sem usar explicitamente `G`. Em seguida, resolver a questão 3, que inicia T2 com prensa hidráulica, empuxo, transbordamento, densidade e massa de água/areia. Depois retomar o exercício independente de periélio/afélio e problemas de energia orbital.
+Concluir a aplicação numérica do bloco submerso, começando por `F_E=\rho_f gV` e depois encontrando `T`; em seguida resolver a questão 3, que inicia T2 com prensa hidráulica, empuxo, transbordamento, densidade e massa de água/areia. Depois retomar o exercício independente de periélio/afélio e as questões 2(c), 2(d) e 2(e) da lista.
 
 ## Revisões necessárias para Física 2
 
@@ -45,6 +56,9 @@ Corrigir e fechar a questão 2(c) da lista; resolver 2(d), estimando a variaçã
 - explicar conservação de energia incluindo a energia potencial da interação, em vez de afirmar que a energia do objeto isolado se conserva sob força externa;
 - relacionar conservação de momento angular, velocidade tangencial e áreas varridas;
 - ainda verificar de forma independente o cálculo de `K_min` quando a massa da sonda muda.
+- traduzir um diagrama de forças de T2 em equação de equilíbrio, distinguindo empuxo como resultante das forças de pressão, peso `mg` e tensão;
+- manter a distinção entre pressão contínua e mudança de inclinação em interfaces de camadas fluidas;
+- conferir a notação de pressão `P`, peso `mg` e empuxo `F_E`, além de unidades em aplicações de densidade e pressão.
 
 ## Pendências atuais de Física 2
 
@@ -54,6 +68,7 @@ Corrigir e fechar a questão 2(c) da lista; resolver 2(d), estimando a variaçã
 - resolver o exercício de periélio/afélio usando `r_pv_p=r_av_a`;
 - resolver problemas de energia orbital e comparação de massas sem método indicado;
 - desenvolver T2 pela questão 3: pressão, densidade, prensa hidráulica, empuxo, transbordamento e camadas esféricas;
+- concluir o exercício autoral de empuxo do bloco submerso: `V=2,0×10^{-3} m³`, `m=1,0 kg`, água com `\rho=1000 kg/m³` e `g=10 m/s²`, determinando `F_E` e `T`;
 - estudar a aplicação seletiva de T8 sobre temperatura, movimento molecular e retenção atmosférica;
 - revisar elasticidade e cisalhamento de Física 1 para a questão 4(e) da lista.
 

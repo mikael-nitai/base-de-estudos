@@ -1,5 +1,17 @@
 # Física — Exercícios pendentes
 
+## Física 2 — sessão de 2026-09-21
+
+### Trabalhados com compreensão conceitual
+
+- `Fisica02_Aula09_2026B.pdf`, aula externa sem `material_id` no catálogo: densidade, massa específica, densidade relativa, pressão, pressão hidrostática, Torricelli e elasticidade foram revisados por perguntas conceituais. As respostas foram em geral adequadas, com correções sobre a continuidade da pressão entre camadas e a distinção entre empuxo e forças de pressão.
+- Exercício autoral do bloco totalmente submerso preso ao fundo: o estudante identificou empuxo, peso e tensão, orientou a tensão para baixo e montou `F_E-T-mg=0`. A aplicação numérica ainda não foi feita.
+
+### Pendentes
+
+- Exercício autoral de empuxo: bloco com `V=2,0×10^{-3} m³`, `m=1,0 kg`, água com `\rho=1000 kg/m³` e `g=10 m/s²`; determinar `F_E` e `T`.
+- `ListaExercicio01-fis2.pdf` → questão 3, início de T2: prensa hidráulica, empuxo, transbordamento, areia e massa final.
+
 ## Física 2 — sessão de 2026-09-20
 
 ### Resolvidos corretamente ou com compreensão demonstrada
