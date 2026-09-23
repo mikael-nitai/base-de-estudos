@@ -1,5 +1,9 @@
 # Exercícios pendentes
 
+## Cálculo C — C2 Coordenadas polares — 23/09/2026
+
+Converter o ponto cartesiano `(x,y)=(1,√3)` para coordenadas polares, escolhendo `r≥0` e `0≤θ<2π`. Mostrar o cálculo de `r` e justificar o quadrante e o ângulo `θ`.
+
 ## Diagnóstico complementar — 10/08/2026
 
 Os itens abaixo foram propostos, mas não realizados porque o estudante encerrou o diagnóstico inicial e solicitou o início de Cálculo A:

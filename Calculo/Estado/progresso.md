@@ -1,5 +1,15 @@
 # Progresso
 
+## Estado atual — 23/09/2026
+
+### Cálculo C
+
+Foi apresentada uma introdução teórica à unidade C2 — coordenadas polares: polo e eixo polar; interpretação de `r` como distância e `θ` como direção; relação com coordenadas cartesianas (`x=r cos θ`, `y=r sen θ`); não unicidade da representação por voltas completas e pelo uso de raio negativo; exemplos básicos de curvas polares e motivação para o uso do sistema.
+
+O conteúdo foi explicado, mas não houve tentativa independente nem exercício resolvido nesta sessão. Portanto, a compreensão ainda não foi avaliada e C2 não deve ser marcada como dominada.
+
+**Próximo passo:** verificar a compreensão das coordenadas e conversões por meio do exercício pendente em `Exercicios/pendentes.md`; depois, praticar a não unicidade das representações e a leitura de curvas simples `r=f(θ)`. As verificações anteriormente pendentes de C1 e C3 continuam válidas.
+
 ## Estado atual — 09/09/2026
 
 ### Cálculo C
